@@ -1,5 +1,5 @@
-1. minikube start - Start local Kubernetes cluster
-2. minikube status - Check cluster and node status
-3. minikube dashboard - Open Kubernetes web dashboard
-4. minikube stop - Stop running cluster
-5. minikube delete - Delete cluster and release resources
+1. minikube start - start local kubernetes cluster
+2. minikube status - check cluster and node status
+3. minikube dashboard - open Kubernetes web dashboard
+4. minikube stop - stop running cluster
+5. minikube delete - delete cluster and release resources
