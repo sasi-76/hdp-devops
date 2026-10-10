@@ -1,0 +1,5 @@
+1. minikube start - Start local Kubernetes cluster
+2. minikube status - Check cluster and node status
+3. minikube dashboard - Open Kubernetes web dashboard
+4. minikube stop - Stop running cluster
+5. minikube delete - Delete cluster and release resources

@@ -1,0 +1,10 @@
+1. docker run <image> - Run container from image
+2. docker ps -a - List all containers
+3. docker pull <image> - Download image from Docker Hub
+4. docker images - List local images
+5. docker stop <container> - Stop running container
+6. docker start <container> - Start stopped container
+7. docker logs <container> - View container logs
+8. docker exec -it <container> sh - Open shell in container
+9. docker rm <container> - Delete container
+10. docker build -t <tag> . - Build image from Dockerfile

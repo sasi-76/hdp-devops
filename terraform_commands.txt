@@ -1,0 +1,10 @@
+1. terraform init - Initialize directory and download providers
+2. terraform plan - Preview changes before applying
+3. terraform apply - Create or update infrastructure
+4. terraform destroy - Destroy managed infrastructure
+5. terraform validate - Check configuration syntax
+6. terraform fmt - Format configuration files
+7. terraform show - Inspect current state or plan
+8. terraform state list - List resources in state file
+9. terraform output - View output values
+10. terraform refresh - Sync state with remote resources
